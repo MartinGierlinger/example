@@ -2,7 +2,7 @@ class Hello() {
 
 public String saas()
 {
-    String s = "Hallo";
+    String s = "Hallo World";
     return s; // ---
 }
 }
